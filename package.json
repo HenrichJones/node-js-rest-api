@@ -1,0 +1,19 @@
+{
+  "name": "rest-shop-api",
+  "version": "1.0.0",
+  "description": "A Noje.js Restful API project building a simple project to order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Henrich Jones",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
